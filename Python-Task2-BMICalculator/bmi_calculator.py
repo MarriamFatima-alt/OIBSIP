@@ -1,5 +1,4 @@
  # BMI Calculator - Task 2
-# BMI Calculator - Task 2
 # Oasis Infobyte Internship - Python Track
 
 def calculate_bmi(weight, height):
